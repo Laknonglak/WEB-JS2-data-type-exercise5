@@ -1,6 +1,6 @@
 ## Exercise5
 
-![Book](https://github.com/Laknonglak/JSD5-WEB-JS2-Exercise4/assets/67027761/c9ae93c3-afc7-42e6-9b98-450adb0f1d43)
+![er-diagram](https://github.com/Laknonglak/WEB-JS2-data-type-exercise5/assets/67027761/5d6591dd-81e5-46f0-9a7d-c367b3e640df)
 
 <br>
 <br>
